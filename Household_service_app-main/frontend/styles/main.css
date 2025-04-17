@@ -1,0 +1,23 @@
+* {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+}
+
+#submit{
+    margin:auto;
+    align-items: center;
+    justify-content: center;
+}
+
+#sercard{
+    background-color: #f2f5f5;
+}
+
+#logout:hover{
+    cursor: pointer;
+}
+
+
+
+
+
